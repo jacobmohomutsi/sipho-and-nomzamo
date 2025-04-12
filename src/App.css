@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
 
 /* Hero */
+body{
+  background-color: #fff;
+}
 .hero {
   height: 90vh;
   background-color: #e3d8c980;
