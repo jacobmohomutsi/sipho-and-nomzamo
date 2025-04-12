@@ -7,12 +7,12 @@ const Schedule = () => {
         <div className="row g-md-5 g-3">
             <div className="col-md-6">
               <div className="card h-100 p-md-5 p-3 border-0">
-                <img src="/public/ceremony.png" className="img-fluid" />
+                <img src="/ceremony.png" className="img-fluid" />
               </div>
             </div>
             <div className="col-md-6">
               <div className="card h-100 p-md-5 p-3 border-0">
-                <img src="/public/reception.png" className="img-fluid" />
+                <img src="/reception.png" className="img-fluid" />
               </div>
             </div>
         </div>

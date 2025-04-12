@@ -7,7 +7,7 @@ const Story = () => (
             <div className="card m-0 border-0">
               <div className="ratio ratio-1x1">
                 <img
-                  src="/public/story/1.jpeg"
+                  src="/story/1.jpeg"
                   className="card-img-top"
                   alt="Our Story"
                   style={{ objectFit: 'cover' }}
@@ -19,7 +19,7 @@ const Story = () => (
             <div className="card m-0 border-0">
               <div className="ratio ratio-1x1">
                 <img
-                  src="/public/story/2.jpeg"
+                  src="/story/2.jpeg"
                   className="card-img-top"
                   alt="Our Story"
                   style={{ objectFit: 'cover' }}
@@ -31,7 +31,7 @@ const Story = () => (
             <div className="card m-0 border-0">
               <div className="ratio ratio-1x1">
                 <img
-                  src="/public/story/3.jpeg"
+                  src="/story/3.jpeg"
                   className="card-img-top"
                   alt="Our Story"
                   style={{ objectFit: 'cover' }}
@@ -43,7 +43,7 @@ const Story = () => (
             <div className="card">
               <div className="ratio ratio-1x1">
                 <img
-                  src="/public/story/4.jpeg"
+                  src="/story/4.jpeg"
                   className="card-img-top"
                   alt="Our Story"
                   style={{ objectFit: 'cover' }}

@@ -21,7 +21,7 @@ const RSVP = () => {
         <div className="row g-md-5 g-3">
           <div className="col-md-6">
             <img
-              src="/public/rsvp.png"
+              src="/rsvp.png"
               className="img-fluid rounded"
               alt="Couple"
             />
