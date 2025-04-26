@@ -33,6 +33,9 @@ h2{
 .form-control {
   border-radius: 0px;
 }
+.btn-dark{
+  background-color: #594423;
+}
 .special-font {
   font-family: "Pinyon Script", cursive;
   font-size: 2rem;
