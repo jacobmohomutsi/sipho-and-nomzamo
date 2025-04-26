@@ -61,7 +61,7 @@ const GiftRegistry = () => {
     ];
   
     return (
-      <section id="gift-registry" className="p-4 p-md-5">
+      <section id="giftRegistry" className="p-4 p-md-5">
         <div className="text-center mb-5">
           <h2 >Gift Registry</h2>
           <p className="mt-2 text-muted fs-5">

@@ -8,7 +8,7 @@ const Hero = () => (
                     <p className="lead">Join us for our special day with all our favorite people.</p>
                     <div className="d-flex justify-content-md-start justify-content-center">
                     <a className="btn btn-dark btn-sm rounded-pill mt-4 me-2" href="#rsvp">RSVP</a>
-                    <a className="btn btn-light btn-sm rounded-pill mt-4" href="#rsvp">Registry</a>
+                    <a className="btn btn-light btn-sm rounded-pill mt-4" href="#giftRegistry">Registry</a>
                     </div>
                     <p className="mt-2 small">Please RSVP by June 1st</p>
                 </div>
