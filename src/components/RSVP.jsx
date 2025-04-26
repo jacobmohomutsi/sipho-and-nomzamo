@@ -31,7 +31,7 @@ const RSVP = () => {
             <p><strong>When:</strong> Saturday, July 26, 2025 · 10:00 AM - 16:30 PM</p>
             <p><strong>Ceremony:</strong> UCKG, Mabopane, Unit B, 0190</p>
             <p><strong>Reception:</strong> Mystical Woods Venue, No 100, Old Brits Road, Pretoria, 0251</p>
-            <p><strong>Dress Code:</strong> Formal Attire</p>
+            <p><strong>Dress Code:</strong> Elegant Attire</p>
             <form onSubmit={handleSubmit}>
               <input
                 type="text"
