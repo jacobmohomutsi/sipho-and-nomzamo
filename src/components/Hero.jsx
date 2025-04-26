@@ -15,7 +15,7 @@ const Hero = () => (
             </div>
             <div className="col-md-6 d-flex justify-content-center align-items-center">
                 <img
-                    src="/public/hero.png"
+                    src="/hero.png"
                     className="img-fluid "
                     alt="Couple"
                 />
