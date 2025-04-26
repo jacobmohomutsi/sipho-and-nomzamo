@@ -19,7 +19,7 @@ const FAQ = () => {
     },
     {
       question: 'Where can buy the gifts?',
-      answer: 'Anywhere you like! We have a registry at various stores, but reccomend you to buy from Sheet Street and Mr Price for convinience.'
+      answer: 'Anywhere you like! but we reccomend you to buy from Sheet Street and Mr Price for convinience.'
     },
   ];
 
