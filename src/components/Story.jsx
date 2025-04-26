@@ -1,6 +1,6 @@
 // src/components/Story.jsx
 const Story = () => (
-  <section id="story" className="text-center p-5">
+  <section id="story" className="text-center p-md-5 p-1">
     <h2 className="mb-4">Discover Our Journey</h2>
     <div
       className="d-flex overflow-auto py-3"
