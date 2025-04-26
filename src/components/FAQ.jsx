@@ -18,7 +18,7 @@ const FAQ = () => {
       answer: 'Unfortunately not, we are unable to accommodate plus ones due to limited space. We hope you understand.'
     },
     {
-      question: 'Where can buy the gifts?',
+      question: 'Where can I buy the gifts?',
       answer: 'Anywhere you like! but we reccommend you to buy from Sheet Street and Mr Price for convinience.'
     },
   ];
