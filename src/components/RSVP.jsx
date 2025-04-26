@@ -10,7 +10,7 @@ const RSVP = () => {
     e.preventDefault()
     const message = `Hello Thotho, I am ${name} and ${attendance === 'yes' ? 'I will attend' : 'I won\'t be able to attend'}. I hope you understand. ${note ? 'Note: ' + note : ''}`
     const encodedMessage = encodeURIComponent(message)
-    const phoneNumber = '27698234687' // Replace with actual number
+    const phoneNumber = '27637714375' // Replace with actual number
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`
     window.open(whatsappUrl, '_blank')
   }

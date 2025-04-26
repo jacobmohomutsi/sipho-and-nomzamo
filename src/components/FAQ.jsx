@@ -19,12 +19,12 @@ const FAQ = () => {
     },
     {
       question: 'Where can buy the gifts?',
-      answer: 'Anywhere you like! but we reccomend you to buy from Sheet Street and Mr Price for convinience.'
+      answer: 'Anywhere you like! but we reccommend you to buy from Sheet Street and Mr Price for convinience.'
     },
   ];
 
   return (
-    <section className="p-md-5 p-2">
+    <section id="faq" className="p-md-5 p-2">
       <h2 className="text-center mb-4">FAQ</h2>
       <div className="accordion" id="faqAccordion">
         {faqs.map((faq, i) => (
